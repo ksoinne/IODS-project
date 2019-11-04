@@ -2,3 +2,11 @@
 # About the project
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you can use R Markdown syntax.*
+
+Honestly - I have no faith in me being able to get this course done: my technical skills just are not enough :-( 
+
+I was really excited when I first learned about this course and even more excited, when I read the first few chapters of Kimmo's and Brian's book, but just trying to get R, RStudio and GitHub installed made me so upset. (And no, there was no help fromt the questions asked by others, since I did not understand neither questions nor answers.)
+
+My GitHub repository is - hopefully - at https://github.com/ksoinne/IODS-project
+
+And obviously I have not really learned, since I have no idea how to look for advice (after going that part of the sesssion trough some time ago...).
